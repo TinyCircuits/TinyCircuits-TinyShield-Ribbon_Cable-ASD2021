@@ -1,15 +1,15 @@
 # TinyCircuits TinyShield Ribbon Cable Board
 # ASD2021 Rev1
 
-These are the design files for the TinyCircuits ASD2021 Rev 1 PCB.  This is a TinyShield board that has a ribbon cable connector to allow connecting to another board using a ribbon cable.
+The design files are located under design_files/ for the TinyCircuits ASD2021 Rev 1 PCB.  This is a TinyShield board that has a ribbon cable connector to allow connecting to another board using a ribbon cable.
 
 Format is in Cadsoft Eagle format - Eagle version 6.2 was used for the original design.
 
-For more infomation on this, check out the product page at Tiny-Circuits.com:  https://tiny-circuits.com/tinyshield-ribbon-cable.html
+For more infomation on this, check out the product page at TinyCircuits.com: https://tinycircuits.com/collections/proto-boards/products/tinyshield-ribbon-cable-extender
 
 
 
-#License:
+# License:
 
 Design by TinyCircuits.
 All design files are released under the Creative Commons Attribution Share-Alike 3.0 License, see the following link for details: http://creativecommons.org/licenses/by-sa/3.0
