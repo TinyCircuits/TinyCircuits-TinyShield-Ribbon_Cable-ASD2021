@@ -575,7 +575,7 @@
 <text x="88.921590625" y="11.402059375" size="2.54" layer="94" font="vector">REV:</text>
 <text x="1.291590625" y="19.022059375" size="2.54" layer="94" font="vector">TITLE:</text>
 <text x="1.291590625" y="11.402059375" size="2.54" layer="94" font="vector">Document Number:</text>
-<text x="42.642790625" y="27.302459375" size="2.286" layer="94" font="vector">http://www.Tiny-Circuits.com</text>
+<text x="42.642790625" y="27.302459375" size="2.286" layer="94" font="vector">http://www.TinyCircuits.com</text>
 <rectangle x1="3.883025" y1="24.876125" x2="4.130675" y2="24.882475" layer="94"/>
 <rectangle x1="3.883025" y1="24.882475" x2="4.130675" y2="24.888825" layer="94"/>
 <rectangle x1="3.883025" y1="24.888825" x2="4.130675" y2="24.895175" layer="94"/>
